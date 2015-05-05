@@ -1,5 +1,5 @@
 # HelloWorld
 This is my first repository
 
-This is just a test for what is to come.
+This is just a taste for what is to come.
 
